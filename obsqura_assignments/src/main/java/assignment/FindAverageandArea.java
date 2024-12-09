@@ -1,6 +1,6 @@
 package assignment;
 
-public class FindAverage {
+public class FindAverageandArea {
 
 	public void average(int n1,int n2,int n3)
 	{
@@ -33,7 +33,7 @@ public class FindAverage {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		FindAverage obj=new FindAverage();
+		FindAverageandArea obj=new FindAverageandArea();
 	    obj.average(8, 34, 4);
 	    obj.average(3.1f, 3.2f, 3.3f);
 	    obj.area(5);
